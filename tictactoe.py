@@ -226,3 +226,11 @@ st.markdown("---")
 if st.button("🆕 New Game", use_container_width=True, type="primary"):
     reset_game()
     st.rerun()
+
+# -----------------------------
+# UI: Reset Button
+# -----------------------------
+st.markdown("---")
+if st.button("🆕 New Game", use_container_width=True, type="primary"):
+    reset_game()
+    st.rerun()
